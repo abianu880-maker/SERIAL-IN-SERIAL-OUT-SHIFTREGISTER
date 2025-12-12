@@ -52,7 +52,8 @@ endmodule
 
 
 **RTL LOGIC FOR SISO Shift Register**
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1d2dd74f-4878-46b8-93f9-71986e37f976" />
+<img width="1043" height="520" alt="Screenshot 2025-12-12 155032" src="https://github.com/user-attachments/assets/76f17991-0f69-4007-adac-fbd742c1673f" />
+
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 <img width="1017" height="524" alt="Screenshot 2025-12-12 155043" src="https://github.com/user-attachments/assets/d920ec3c-faf7-48c4-ac36-06d85f6f4f82" />
